@@ -221,16 +221,6 @@ The confusion matrix shows strong diagonal dominance, indicating good classifica
 
 ---
 
-## Future Improvements
-
-- [ ] Implement DistilBERT for faster inference
-- [ ] Add confidence thresholding for uncertain predictions
-- [ ] Multi-language support
-- [ ] Real-time API deployment
-- [ ] Active learning for continuous improvement
-
----
-
 ## References
 
 - [Banking77 Dataset](https://github.com/PolyAI-LDN/task-specific-datasets)
