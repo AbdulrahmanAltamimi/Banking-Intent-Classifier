@@ -179,7 +179,7 @@ print(f"Predicted Intent: {intent}")
 
 ```bash
 cd streamlit_app
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ---
